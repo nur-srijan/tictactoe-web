@@ -6,15 +6,15 @@ This project is a web-based implementation of the classic Tic Tac Toe game, feat
 
 ## Project Structure
 
-- `src/index.html`: Main landing page with game selection and features overview
-- `src/tictactoe_3x3.html`: Classic 3x3 Tic Tac Toe game
-- `src/tictactoe_4x4.html`: Advanced 4x4 version
-- `src/tictactoe_5x5.html`: Expert 5x5 version
-- `src/js/`
+- `index.html`: Main landing page with game selection and features overview
+- `tictactoe_3x3.html`: Classic 3x3 Tic Tac Toe game
+- `tictactoe_4x4.html`: Advanced 4x4 version
+- `tictactoe_5x5.html`: Expert 5x5 version
+- `js/`
   - `tictac_3x3.js`: Game logic for 3x3 board
   - `tictac_4x4.js`: Game logic for 4x4 board
   - `tictac_5x5.js`: Game logic for 5x5 board
-- `src/css/`
+- `css/`
   - `styles3x3.css`: Styles for 3x3 game
   - `styles4x4.css`: Styles for 4x4 game
   - `styles5x5.css`: Styles for 5x5 game
