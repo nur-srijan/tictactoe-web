@@ -43,7 +43,7 @@ git clone https://github.com/yourusername/tic-tac-toe.git
 cd tic-tac-toe
 ```
 
-3. Open `src/index.html` in your web browser or use a local server:
+3. Open `index.html` in your web browser or use a local server:
 ```bash
 python -m http.server 8000
 ```
