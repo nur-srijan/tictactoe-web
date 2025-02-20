@@ -14,7 +14,7 @@ This project is a web-based implementation of the classic Tic Tac Toe game, feat
 - Game state tracking
 - Real-time win detection
 - Easy reset functionality
-- Light and Dark modes synchronysied with your system theme **New**
+- Light and Dark modes synchronysied with your system theme (**New**)
 
 ## How to Play
 
