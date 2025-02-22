@@ -1,4 +1,5 @@
-# Tic Tac Toe Project
+# Tic Tac Toe
+## Introduction
 
 This project is a web-based implementation of the classic Tic Tac Toe game, featuring 3x3, 4x4, and 5x5 versions. The game includes an intelligent AI opponent using the minimax algorithm with alpha-beta pruning.
 
