@@ -33,7 +33,7 @@ cd tictactoe-web
 ```bash
 python -m http.server 8000
 ```
-Then visit `http://localhost:8000/src/index.html`
+Then visit `http://localhost:8000/index.html`
 
 ## Game Rules
 
