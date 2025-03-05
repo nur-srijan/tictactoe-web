@@ -21,12 +21,12 @@ This project is a web-based implementation of the classic Tic Tac Toe game, feat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/nur-srijan/tictactoe-web.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd tic-tac-toe
+cd tictactoe-web
 ```
 
 3. Open `index.html` in your web browser or use a local server:
@@ -74,7 +74,7 @@ Then visit `http://localhost:8000/src/index.html`
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GPL v3.0 License - see the LICENSE file for details.
 
 ## Acknowledgments
 
