@@ -74,7 +74,7 @@ Then visit `http://localhost:8000/index.html`
 
 ## License
 
-This project is licensed under the GPL v3.0 License - see the LICENSE file for details.
+This project is licensed under the MIT licence - see the LICENSE file for details.
 
 ## Acknowledgments
 
