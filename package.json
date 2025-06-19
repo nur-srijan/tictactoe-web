@@ -1,10 +1,8 @@
 {
-  "name": "tic-tac-toe",
+  "name": "tictactoe-web",
   "version": "1.0.0",
-  "description": "A simple Tic Tac Toe game with 3x3 and 4x4 variations.",
-  "main": "src/index.html",
-  "scripts": {
-    "start": "live-server src"
+  "description": "A simple Tic Tac Toe game with 3x3, 4x4 and 5x5 variations.",
+  "main": "src/index.html"
   },
   "keywords": [
     "tic-tac-toe",
@@ -13,10 +11,9 @@
     "css",
     "javascript"
   ],
-  "author": "Your Name",
+  "author": "Nur Srijan",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
-    "live-server": "^1.2.1"
+  "dependencies": {
+    
   }
 }
